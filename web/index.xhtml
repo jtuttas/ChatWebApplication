@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:p="http://xmlns.jcp.org/jsf/passthrough">
+    <h:head>
+        <title>Simple Chat</title>
+        <link href="css/styles.css" type="text/css" rel="stylesheet"></link>
+        <script src="js/libs/jquery/jquery.min.js"></script>
+        <script src="js/main.js"></script>
+    </h:head>
+    <h:body>
+        <h1>Simple Chat with J2EE, Websockets, JSF, Ajax and JQuery</h1>
+        <h:form>
+            <div id="send">
+                <h:inputText id="sendmsg" class="input" value="#{chatBean.msg}" required="false" valueChangeListener="#{chatBean.msgChanged()}">             
+                </h:inputText>
+                <h:commandButton value="Senden" action="#{chatBean.msgChanged()}" class="buttonsytle">
+                    <f:ajax execute="sendmsg" render="sendmsg" />
+                </h:commandButton>
+            </div>            
+        </h:form>
+        <div id="receive">
+        </div>
+    </h:body>
+</html>
+
