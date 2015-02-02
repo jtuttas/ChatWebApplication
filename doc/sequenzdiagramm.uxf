@@ -4,7 +4,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>430</x>
+      <x>380</x>
       <y>60</y>
       <w>200</w>
       <h>30</h>
@@ -15,7 +15,7 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>290</x>
+      <x>240</x>
       <y>0</y>
       <w>60</w>
       <h>100</h>
@@ -26,7 +26,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>670</x>
+      <x>620</x>
       <y>60</y>
       <w>200</w>
       <h>30</h>
@@ -37,7 +37,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>890</x>
+      <x>840</x>
       <y>160</y>
       <w>200</w>
       <h>30</h>
@@ -48,7 +48,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
+      <x>260</x>
       <y>80</y>
       <w>30</w>
       <h>370</h>
@@ -59,7 +59,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>530</x>
+      <x>480</x>
       <y>80</y>
       <w>30</w>
       <h>370</h>
@@ -70,7 +70,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
+      <x>260</x>
       <y>120</y>
       <w>250</w>
       <h>40</h>
@@ -82,7 +82,7 @@ request</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
+      <x>260</x>
       <y>150</y>
       <w>250</w>
       <h>40</h>
@@ -94,7 +94,7 @@ index.(x)html</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>760</x>
+      <x>710</x>
       <y>80</y>
       <w>30</w>
       <h>370</h>
@@ -105,7 +105,7 @@ index.(x)html</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
+      <x>260</x>
       <y>190</y>
       <w>480</w>
       <h>50</h>
@@ -117,7 +117,7 @@ Connect WS:// @ document_finished</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>530</x>
+      <x>480</x>
       <y>160</y>
       <w>380</w>
       <h>40</h>
@@ -129,7 +129,7 @@ create</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>980</x>
+      <x>930</x>
       <y>180</y>
       <w>30</w>
       <h>230</h>
@@ -140,7 +140,7 @@ create</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>980</x>
+      <x>930</x>
       <y>390</y>
       <w>20</w>
       <h>20</h>
@@ -151,7 +151,7 @@ create</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
+      <x>260</x>
       <y>230</y>
       <w>700</w>
       <h>40</h>
@@ -163,7 +163,7 @@ msg()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>760</x>
+      <x>710</x>
       <y>260</y>
       <w>250</w>
       <h>40</h>
@@ -175,7 +175,7 @@ sendMsg()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
+      <x>260</x>
       <y>280</y>
       <w>480</w>
       <h>40</h>
@@ -187,7 +187,7 @@ update() Chat</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
+      <x>260</x>
       <y>350</y>
       <w>250</w>
       <h>40</h>
@@ -199,7 +199,7 @@ close()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
+      <x>260</x>
       <y>380</y>
       <w>480</w>
       <h>40</h>
@@ -211,7 +211,7 @@ onClose()</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>110</x>
+      <x>60</x>
       <y>70</y>
       <w>150</w>
       <h>70</h>
@@ -223,7 +223,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>890</x>
+      <x>840</x>
       <y>70</y>
       <w>130</w>
       <h>70</h>
@@ -235,7 +235,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>50</x>
+      <x>0</x>
       <y>180</y>
       <w>230</w>
       <h>100</h>
@@ -247,7 +247,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>1040</x>
+      <x>990</x>
       <y>200</y>
       <w>160</w>
       <h>70</h>
@@ -259,19 +259,19 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>1040</x>
+      <x>990</x>
       <y>300</y>
       <w>160</w>
       <h>70</h>
     </coordinates>
-    <panel_attributes>Über eine statische Methode wird die Nachricht an die Cleints verteilt
+    <panel_attributes>Über eine statische Methode wird die Nachricht an die Clients verteilt
 bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>820</x>
+      <x>770</x>
       <y>430</y>
       <w>160</w>
       <h>100</h>
@@ -283,7 +283,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>250</x>
+      <x>200</x>
       <y>100</y>
       <w>90</w>
       <h>60</h>
@@ -294,7 +294,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>810</x>
+      <x>760</x>
       <y>110</y>
       <w>100</w>
       <h>90</h>
@@ -305,7 +305,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>260</x>
+      <x>210</x>
       <y>180</y>
       <w>80</w>
       <h>50</h>
@@ -316,7 +316,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>980</x>
+      <x>930</x>
       <y>230</y>
       <w>80</w>
       <h>40</h>
@@ -327,7 +327,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>980</x>
+      <x>930</x>
       <y>270</y>
       <w>80</w>
       <h>50</h>
@@ -338,7 +338,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>140</x>
+      <x>90</x>
       <y>330</y>
       <w>160</w>
       <h>70</h>
@@ -350,7 +350,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>280</x>
+      <x>230</x>
       <y>290</y>
       <w>100</w>
       <h>70</h>
@@ -361,7 +361,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>760</x>
+      <x>710</x>
       <y>390</y>
       <w>80</w>
       <h>60</h>
@@ -372,7 +372,7 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>530</x>
+      <x>480</x>
       <y>360</y>
       <w>480</w>
       <h>40</h>
